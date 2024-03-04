@@ -58,7 +58,7 @@ var questionsArray = [
     },
     {
         question:
-            "A very useful tool used during development and debugging for printing conent to the debugger is:",
+            "A very useful tool used during development and debugging for printing content to the debugger is:",
         multiple_choice: ["JavaScript", "terminal/bash", "for loops", "console.log"],
         answer: "console.log",
     },
