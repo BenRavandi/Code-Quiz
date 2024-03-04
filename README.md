@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a timed code quiz application which enables developers, sepecially the ones who started their journey of becoming a computer programmer test their base knowledge in programming mainly JavaScript fundamentals. As JavaScript is the core languague of all programming languagues out there, it is essential to review and learn important aspects of its functionality.
+This is a timed code quiz application which enables developers, especially the ones who started their journey of becoming a computer programmer test their base knowledge in programming mainly JavaScript fundamentals. As JavaScript is the core languague of all programming languagues out there, it is essential to review and learn important aspects of its functionality.
 
 ## Table of Contents (Quiz Guide)
 
