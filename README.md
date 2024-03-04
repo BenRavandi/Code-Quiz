@@ -30,4 +30,4 @@ The following animation demonstrates the application functionality as well:
 ## Test
 
 The following link will take you to my code quiz application: <br>
- <a href="https://benravandi.github.io/PasswordGeneratorApp/">Visit MyCodeQuiz!</a>
+ <a href="https://benravandi.github.io/Code-Quiz/">Visit MyCodeQuiz!</a>
