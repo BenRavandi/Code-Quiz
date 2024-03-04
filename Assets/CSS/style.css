@@ -127,7 +127,8 @@ main p {
     padding: 5px 5px 5px 5px;
 }
 
-#answer {
+#answer,
+#lastAnswer {
     color: rgb(19, 161, 50);
 }
 

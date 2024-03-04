@@ -90,6 +90,7 @@ function startTimer() {
     }, 1000);
 }
 
+
 // This function renders questions by showing questions & multiple choices on the page
 function renderQuestion() {
     var currentQuestion = questionsArray[currentQuestionIndex];
@@ -114,10 +115,10 @@ function nextQuestion() {
 
     // Check to see if the question was answered correctly or not then show it on the page
     if (this.innerHTML === questionsArray[currentQuestionIndex].answer) {
-        answerText.innerHTML = "Correct!";
+        answerText.innerHTML = "<hr>" + "Correct!";
         timeRemaining;
     } else {
-        answerText.innerHTML = "Incorrect!";
+        answerText.innerHTML = "<hr>" + "Incorrect!";
         timeRemaining -= 12;
     }
 
